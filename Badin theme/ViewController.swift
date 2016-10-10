@@ -12,7 +12,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     
     @IBOutlet weak var Tablepeople: UITableView!
     
-    var SpecialEvents = ["Block Days","Sports","Off School Days","Meetings","Trips"]
+    var SpecialEvents = ["Block Days","Sports","Off School Days","Meetings","Trips","Mass days","out of uniform days","concerts","retreats","Service"]
     
 
     override func viewDidLoad() {
