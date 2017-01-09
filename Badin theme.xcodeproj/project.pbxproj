@@ -299,6 +299,7 @@
 				BE0D58A71DA670A5008D42AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
